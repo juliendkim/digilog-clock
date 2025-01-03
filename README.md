@@ -1,3 +1,3 @@
 # digilog-clock
 
-![](clock.mp4)
+![clock.png](clock.mp4)
